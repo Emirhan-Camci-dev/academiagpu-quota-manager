@@ -29,7 +29,7 @@ academiagpu-enterprise --license-payload '{"institution":"MyUni","tier":"Pro","m
 
 ## Licensing & Purchase
 This is a **Proprietary Commercial Solution**. 
-Purchase an Annual University Cluster License ($2,400 – $6,000/year) via [Polar.sh](https://polar.sh/academiagpu).
+Purchase an Annual University Cluster License via [Polar.sh](https://buy.polar.sh/polar_cl_0j6c0Q7G7O9mvmMLtYWBS7O1U16xl0bMZFgy621lvd8).
 
 ## Author & Copyright
 - **Author**: Emirhan CAMCI (<byemir@live.com>)
